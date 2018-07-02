@@ -27,6 +27,14 @@ def switch_norm(x, scope='switch_norm') :
         return x
 ```
 
+## Usage
+```python
+with tf.variable_scope('network') :
+    x = conv(x, scope='conv_0')
+    x = switch_norm(x, scope='switch_norm_0')
+    x = relu(x)
+```
+
 ## Results
 ### Comparison
 ![compare](./assests/comparison.PNG)
