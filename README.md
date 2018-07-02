@@ -1,5 +1,5 @@
 # Switchable_Normalization-Tensorflow
-Simple Tensorflow implementation of "Switchable Normalization"
+Simple Tensorflow implementation of [Switchable Normalization](https://arxiv.org/abs/1806.10779)
 
 ## Code
 ```python
