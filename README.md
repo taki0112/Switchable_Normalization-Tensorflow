@@ -1,6 +1,9 @@
 # Switchable_Normalization-Tensorflow
 Simple Tensorflow implementation of [Switchable Normalization](https://arxiv.org/abs/1806.10779)
 
+## Summary
+![summary](./assests/teaser.png)
+
 ## Code
 ```python
 def switch_norm(x, scope='switch_norm') :
