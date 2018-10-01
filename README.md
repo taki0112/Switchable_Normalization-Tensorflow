@@ -45,5 +45,8 @@ with tf.variable_scope('network') :
 ### Style Transfer
 ![transfer](./assests/transfer.png)
 
+## Related works
+* [Batch_Instance_Normalization](https://github.com/taki0112/Batch_Instance_Normalization-Tensorflow)
+
 ## Author
 Junho Kim
